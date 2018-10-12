@@ -8,3 +8,6 @@ stop:
 
 rm:
 	@docker-compose rm -vf
+
+firefox:
+	@firefox localhost
